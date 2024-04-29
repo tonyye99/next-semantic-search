@@ -1,4 +1,4 @@
-**Semantic Search Engine**
+### Semantic Search Engine
 
 This is a practice and also a demonstration of how semantic search engine works.
 
